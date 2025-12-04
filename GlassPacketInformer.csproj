@@ -33,6 +33,10 @@
 	  </EmbeddedResource>
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="sql\" />
+	</ItemGroup>
+
 	
 
 </Project>

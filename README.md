@@ -1,1 +1,3 @@
-# GlassPacketInformer
+# В директории sql решение первого задания
+
+# Скомпилированное приложение второго задания \bin\Release\net10.0-windows\win-x64
